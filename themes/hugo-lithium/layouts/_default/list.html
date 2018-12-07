@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+
+  {{ if and .IsHome .Content }}
+  <article class="article">
+    <div class="article-content">
+      {{ .Content }}
+    </div>
+  </article>
+  {{ else }}
+  <div class="archive">
+    {{ range .Pages }}
+    <article class="archive-item">
+      <span class="archive-item-date">
+        {{ .Date.Format "Jan 2, 2006" }}
+      </span>
+      <a href="{{ .RelPermalink }}" class="archive-item-link">{{ .Title }}</a>
+      <p>{{ .Summary }}</p>
+    </article>
+    {{ end }}
+  </div>
+  {{ end }}
+
+</main>
+
+{{ partial "footer.html" . }}

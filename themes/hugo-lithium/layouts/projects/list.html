@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+  {{ .Content }} 
+  <div class="archive">
+    {{ range .Pages }}
+    <article class="archive-item">
+      <a href="{{ .RelPermalink }}" class="archive-item-link">{{ .Title }}</a>
+      <p>{{ .Summary }}</p>
+    </article>
+    {{ end }}
+  </div>
+
+</main>
+
+{{ partial "footer.html" . }}

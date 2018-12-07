@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    {{ if eq .Section "updates" }}
+    <span class="article-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+    {{ end }}
+    
+    <h1 class="article-title">{{ .Title }}</h1>
+    
+    {{ if eq .Section "updates" }}
+    <span class="article-authors">by
+    {{ with .Params.author }}
+      {{ $len := len . }}
+      {{ range $i, $e := .}}
+        {{ $e }}{{ if ne $i (sub $len 1) }}, {{ end }}
+      {{ end }}
+    {{ end }}
+    </span>
+    {{ end }}
+    <div class="article-content">
+      {{ .Content }}
+    </div>
+  </article>
+
+</main>
+
+{{ partial "footer.html" . }}

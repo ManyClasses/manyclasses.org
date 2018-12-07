@@ -1,0 +1,14 @@
+<nav class="nav">
+  <a href="{{ "/" | relURL }}" class="nav-logo">
+    <i class="fas fa-book-open"></i> {{ .Site.Title }}
+  </a>
+
+  <ul class="nav-links">
+    {{ range .Site.Menus.main }}
+    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+    {{ end }}
+    {{ range .Site.Params.social }}
+    <li><a href="{{ .URL }}"><i class="fab {{ .faicon }}"></i></a></li>
+    {{ end }}
+  </ul>
+</nav>

@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|IBM+Plex+Serif');
+
+body {
+  font-family: 'IBM Plex Serif', serif;
+}
+h1, h2, h3, h4, h5, h6, .nav, .article-duration, .archive-item-link, .footer {
+  font-family: 'IBM Plex Sans', sans-serif;
+}

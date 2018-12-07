@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on ManyClasses</title>
+    <link>/updates/</link>
+    <description>Recent content in Updates on ManyClasses</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ManyClasses: A model for abstracting generalizable research principles from different learning contexts</title>
+      <link>/updates/manyclasses-a-model-for-abstracting-generalizable-research-principles-from-different-learning-contexts/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/updates/manyclasses-a-model-for-abstracting-generalizable-research-principles-from-different-learning-contexts/</guid>
+      <description>Note: This post was originally presented as a submission to replicate.education: A Workshop on Large Scale Education Replication as part of the Educational Data Mining 2018 conference.
+Research on learning has unique strengths when conducted in authentic educational contexts, as compared with laboratory contexts. Principal among these, an experiment embedded in a real class will provide a more legitimate measure of a learning activity’s benefit for real educational outcomes than an experiment with a synthetic learning task and materials (Motz et al.</description>
+    </item>
+    
+  </channel>
+</rss>
