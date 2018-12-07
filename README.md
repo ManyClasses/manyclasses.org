@@ -1,2 +1,3 @@
 # manyclasses.org
-blogdown-based site
+
+This repository contains the website for [manyclasses.org]. It is built with [Hugo](gohugo.io).
