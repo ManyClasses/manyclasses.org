@@ -1,6 +1,5 @@
 ---
-title: 'ManyClasses: A model for abstracting generalizable research principles from
-  different learning contexts'
+title: 'ManyClasses: A model for abstracting generalizable research principles from different learning contexts'
 author: ['Ben Motz', 'Josh de Leeuw', 'Paulo Carvalho', 'Emily Fyfe', 'Rob Goldstone']
 date: '2018-07-15'
 slug: manyclasses-a-model-for-abstracting-generalizable-research-principles-from-different-learning-contexts
