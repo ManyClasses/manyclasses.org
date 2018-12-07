@@ -8,7 +8,7 @@ categories: []
 tags: []
 ---
 
-_Note: This post was originally presented as a submission to [replicate.education: A Workshop on Large Scale Education Replication](http://replicate.education/edm18-workshop) as part of the Educational Data Mining 2018 conference._
+_Note: This post was originally presented at [replicate.education: A Workshop on Large Scale Education Replication](http://replicate.education/edm18-workshop), part of the Educational Data Mining 2018 conference._
 
 Research on learning has unique strengths when conducted in authentic educational contexts, as compared with laboratory contexts.  Principal among these, an experiment embedded in a real class will provide a more legitimate measure of a learning activity’s benefit for real educational outcomes than an experiment with a synthetic learning task and materials (Motz et al., in press).  But this strength also presents a problem: the properties of the class context constrain the generalizability of the research conclusions.  For example, there might be differences in the effectiveness of a learning activity for different disciplines (e.g., Psychology vs. Chemistry), class formats (e.g., MOOC vs. face-to-face), and student populations (e.g., urban community colleges vs. elite universities), among others (see Koedinger, Booth, & Klahr, 2013; Gašević et al., 2016).  How can one abstract a generalizable research inference from the situated context of a classroom experiment?
 
