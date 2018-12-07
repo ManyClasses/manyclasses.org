@@ -14,8 +14,14 @@
     <span class="article-authors">by
     {{ with .Params.author }}
       {{ $len := len . }}
-      {{ range $i, $e := .}}
-        {{ $e }}{{ if ne $i (sub $len 1) }}, {{ end }}
+      {{ if (eq $len 2)}}
+        {{ range $i, $e := .}}
+          {{ $e }}{{ if ne $i (sub $len 1) }} & {{ end }}
+        {{ end }}
+      {{ else }}
+        {{ range $i, $e := .}}
+          {{ $e }}{{ if ne $i (sub $len 1) }}, {{if eq $i (sub $len 2)}}& {{end}}{{ end }}
+        {{ end }}
       {{ end }}
     {{ end }}
     </span>

@@ -6,7 +6,7 @@
     {{ range .Pages }}
     <article class="archive-item">
       <a href="{{ .RelPermalink }}" class="archive-item-link">{{ .Title }}</a>
-      <p>{{ .Summary }}</p>
+      {{ if .Params.summary }}<p>{{ .Params.summary }}</p>{{ end }}
     </article>
     {{ end }}
   </div>

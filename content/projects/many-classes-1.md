@@ -1,5 +1,6 @@
 ---
 title: 'ManyClasses 1: Timing of Feedback'
+summary: 'When should students be given feedback after completing a quiz? ManyClasses 1 is comparing the effect of immediate vs. delayed feedback.' 
 ---
 
 

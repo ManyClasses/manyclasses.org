@@ -5,6 +5,7 @@ date: '2018-07-15'
 slug: manyclasses-a-model-for-abstracting-generalizable-research-principles-from-different-learning-contexts
 categories: []
 tags: []
+summary: 'This post introduces the ManyClasses model for doing research on learning. We discuss the problems that ManyClasses is attempting to address, and what we hope to learn.'
 ---
 
 _Note: This post was originally presented at [replicate.education: A Workshop on Large Scale Education Replication](http://replicate.education/edm18-workshop), part of the Educational Data Mining 2018 conference._
@@ -23,16 +24,16 @@ A controlled educational experiment that brings together dozens of teachers in d
 
 ### References
 
-Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., Yurovsky, D. (2017). A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building. Infancy, 22(4), 421-435. doi:10.1111/infa.12182
+Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., Yurovsky, D. (2017). A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building. _Infancy, 22_(4), 421-435. [doi:10.1111/infa.12182](http://dx.doi.org/10.1111/infa.12182)
 
-Gašević, D., Dawson, S., Rogers, T., & Gašević, D. (2016). Learning analytics should not promote one size fits all: The effects of instructional conditions in predicting academic success. The Internet and Higher Education, 28(1), 68-84. doi:10.1016/j.iheduc.2015.10.002
+Gašević, D., Dawson, S., Rogers, T., & Gašević, D. (2016). Learning analytics should not promote one size fits all: The effects of instructional conditions in predicting academic success. _The Internet and Higher Education, 28_(1), 68-84. [doi:10.1016/j.iheduc.2015.10.002](http://dx.doi.org/10.1016/j.iheduc.2015.10.002)
 
-Heffernan, N., & Heffernan, C. (2014). The ASSISTments ecosystem: building a platform that brings scientists and teachers together for minimally invasive research on human learning and teaching. International Journal of Artificial Intelligence in Education, 24(4), 470-497.doi:10.1007/s40593-014-0024-x
+Heffernan, N., & Heffernan, C. (2014). The ASSISTments ecosystem: building a platform that brings scientists and teachers together for minimally invasive research on human learning and teaching. _International Journal of Artificial Intelligence in Education, 24_(4), 470-497. [doi:10.1007/s40593-014-0024-x](http://dx.doi.org/10.1007/s40593-014-0024-x)
 
-Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, Š., Bernstein, M. J., … Nosek, B. A. (2014). Investigating variation in replicability: A “many labs” replication project. Social Psychology, 45(3), 142-152. doi:10.1027/1864-9335/a000178
+Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, Š., Bernstein, M. J., … Nosek, B. A. (2014). Investigating variation in replicability: A “many labs” replication project. _Social Psychology, 45_(3), 142-152. [doi:10.1027/1864-9335/a000178](http://dx.doi.org/10.1027/1864-9335/a000178)
 
 Koedinger, K. R., Baker, R. S., Cunningham, K., Skogsholm, A., Leber, B., & Stamper, J. (2010). A data repository for the EDM community: The PSLC DataShop. In C. Romero, S. Ventura, M. Pechenizkiy, & R. S. Baker, Handbook of Educational Data Mining. Boca Raton, FL: CRC Press.
 
-Koedinger, K. R., Booth, J. L., & Klahr, D. (2013). Instructional complexity and the science to constrain it. Science, 342(6161), 935-937.
+Koedinger, K. R., Booth, J. L., & Klahr, D. (2013). Instructional complexity and the science to constrain it. _Science, 342_(6161), 935-937.
 
-Motz, B. A., Carvalho, P. F., de Leeuw, J. R., Goldstone, R. L. (in press). Embedding experiments: Staking causal inference in authentic educational contexts. Journal of Learning Analytics.
+Motz, B. A., Carvalho, P. F., de Leeuw, J. R., Goldstone, R. L. (in press). Embedding experiments: Staking causal inference in authentic educational contexts. _Journal of Learning Analytics_.

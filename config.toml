@@ -9,6 +9,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
+[blackfriday]
+    fractions = false
+
 [[menu.main]]
     name = "About"
     url = "/"
