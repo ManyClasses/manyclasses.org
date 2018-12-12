@@ -10,12 +10,13 @@ Toward that goal, ManyClasses is a research model for evaluating the efficacy of
 
 ## Who is running this project?
 
-The ManyClasses team is:
-* [Paulo Carvalho](https://sites.google.com/view/paulocarvalho) (Carnegie Mellon University)
-* [Josh de Leeuw](https://www.vassar.edu/faculty/jdeleeuw/) (Vassar College)
-* [Emily Fyfe](https://psych.indiana.edu/directory/faculty/fyfe-emily.html) (Indiana University)
-* [Rob Goldstone](https://psych.indiana.edu/directory/faculty/goldstone-robert.html) (Indiana University)
-* [Ben Motz](http://www.indiana.edu/~motzweb/) (Indiana University)
+The ManyClasses team is: <ul>
+<li> [Paulo Carvalho](https://sites.google.com/view/paulocarvalho) (Carnegie Mellon University) </li>
+<li> [Josh de Leeuw](https://www.vassar.edu/faculty/jdeleeuw/) (Vassar College) </li>
+<li> [Emily Fyfe](https://psych.indiana.edu/directory/faculty/fyfe-emily.html) (Indiana University) </li>
+<li> [Rob Goldstone](https://psych.indiana.edu/directory/faculty/goldstone-robert.html) (Indiana University) </li>
+<li> [Ben Motz](http://www.indiana.edu/~motzweb/) (Indiana University) </li>
+</ul>
 
 ## How will ManyClasses work?
 
