@@ -2,7 +2,7 @@
 title: "ManyClasses"
 ---
 
-ManyClasses is a collaborative research project investigating the generalizability of educational interventions in real classrooms.
+## **ManyClasses** is a collaborative research project investigating the generalizability of educational interventions in real classrooms.
 
 For decades, researchers from psychology, cognitive science, and education have attempted to identify practices that improve student learning.  When studied in authentic educational contexts, research on these practices are often limited to just one class, a convenience sample, which limits the generalizability of inferences that can be drawn about the practice's benefits.  To provide legitimate estimates of the benefits of recommended practices for student learning, research needs to extend beyond the bounds of a single classroom.
 
