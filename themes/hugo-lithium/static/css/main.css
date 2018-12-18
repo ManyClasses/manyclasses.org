@@ -114,6 +114,7 @@ code {
     height: 0px;
     overflow: hidden;
     transition: all .25s;
+    clear: left;
   }
   .nav .menu-icon {
     display: inline-block;
