@@ -2,8 +2,6 @@
 title: 'ManyClasses 1: Call for Applications'
 ---
 
-# ManyClasses 1: Call for Applications
-
 [Apply for your course to join ManyClasses]()
 
 * [What is ManyClasses?]
