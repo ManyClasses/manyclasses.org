@@ -5,7 +5,7 @@ date: '2018-07-15'
 slug: manyclasses-a-model-for-abstracting-generalizable-research-principles-from-different-learning-contexts
 categories: []
 tags: []
-summary: 'This post introduces the ManyClasses model for doing research on learning. We discuss the problems that ManyClasses is attempting to address, and what we hope to learn.'
+summary: 'We presented a vision for ManyClasses research at the replicate.education workshop at Education Data Mining 2018.'
 ---
 
 _Note: This post was originally presented at [replicate.education: A Workshop on Large Scale Education Replication](http://replicate.education/edm18-workshop), part of the Educational Data Mining 2018 conference._
