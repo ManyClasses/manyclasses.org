@@ -7,6 +7,7 @@ summary: 'When should students be given feedback after completing a course assig
 The goal of ManyClasses 1 is to examine how the timing of feedback affects student learning in authentic college courses over the course of a single semester. Specifically, we will compare the effects of immediate feedback (i.e. feedback provided right after an assignment is submitted) versus delayed feedback (i.e. feedback provided several days after an assignment is submitted) on course-relevant student learning outcomes. Additionally, given the fact that students automatically see immediate feedback but not delayed feedback, another factor we will examine is whether students are incentivized to view the feedback provided.
 
 We chose to investigate the timing of feedback in ManyClasses 1 for several reasons:
+
 1. The provision of feedback on course assignments is highly recommended for improving student learning (e.g., American Psychological Association, Coalition for Psychology in Schools and Education, 2015; Benassi, Overson, & Hakala, 2014; Booth, McGinn, Barbieri, Begolli, Chang, Miller-Cotto, Young, & Davenport, 2017; Pashler et al., 2007),  
 2. The provision of feedback is a common component of most classes and will not represent a deviation from normal practice,
 3. Instructors must decide when to provide feedback to their students and they need evidence-based recommendations to inform that decision, and
