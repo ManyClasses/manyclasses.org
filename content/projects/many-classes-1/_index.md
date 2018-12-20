@@ -3,7 +3,6 @@ title: 'ManyClasses 1: Timing of Feedback'
 summary: 'When should students be given feedback after completing a quiz? ManyClasses 1 is comparing the effect of immediate vs. delayed feedback.' 
 ---
 
-
 We will focus on a specific instructional practice: the provision of immediate feedback on student assignments. We
 opted to focus on immediate feedback for several reasons: (1) it is highly recommended for improving student
 learning in STEM fields (Pashler et al., 2007), (2) it is a common component of most classes and will not
@@ -35,3 +34,7 @@ team will provide direct guidance to each instructor to ensure that the assignme
 and to program in the different feedback conditions. The intended timeline for this initial ManyClasses study is
 to recruit instructors in spring 2019, conduct the one-day training for participating instructors in late summer
 2019, and begin data collection at the start of the semester in fall 2019.
+
+## Want to join ManyClasses 1?
+
+Information about joining ManyClasses 1 as an instructor is available [here](join).

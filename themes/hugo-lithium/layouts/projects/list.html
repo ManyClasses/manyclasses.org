@@ -3,7 +3,7 @@
 <main class="content" role="main">
   {{ .Content }} 
   <div class="archive">
-    {{ range .Pages }}
+    {{ range .Sections }}
     <article class="archive-item">
       <a href="{{ .RelPermalink }}" class="archive-item-link">{{ .Title }}</a>
       {{ if .Params.summary }}<p>{{ .Params.summary }}</p>{{ end }}
