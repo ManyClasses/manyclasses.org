@@ -1,14 +1,7 @@
 {{ partial "header.html" . }}
 
 <main class="content" role="main">
-
-  {{ if and .IsHome .Content }}
-  <article class="article">
-    <div class="article-content">
-      {{ .Content }}
-    </div>
-  </article>
-  {{ else }}
+  {{ .Content }} 
   <div class="archive">
     {{ range .Pages }}
     <article class="archive-item">
@@ -20,7 +13,6 @@
     </article>
     {{ end }}
   </div>
-  {{ end }}
 
 </main>
 
