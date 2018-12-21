@@ -20,6 +20,6 @@ The idea is straightforward. Students respond to the consent question with a cod
 
 **screenshot / demo**
 
-If you are interested in the technology side of the solution, we've made the [source code available on GitHub](#). It uses PHP and an sqlite database. We've licensed the software under the MIT license so you are free to use it for whatever purpose you would like.
+If you are interested in the technology side of the solution, we've made the [source code available on GitHub](https://github.com/ManyClasses/encrypted-consent). It uses PHP and an sqlite database. We've licensed the software under the MIT license so you are free to use it for whatever purpose you would like.
 
 [^1]: Future ManyClasses studies may have sufficient safeguards in place (e.g., automated treatment assignment, secure transfer of de-identified passively-collected research data, etc.) to mitigate the need for affirmative consent, but for now, students will be invited to provide their consent to become research participants before their coursework is included in ManyClasses 1.
