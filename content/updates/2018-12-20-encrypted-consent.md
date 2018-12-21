@@ -16,3 +16,6 @@ The need to collect informed consent presents a challenge in real classrooms.  W
 
 We call our solution: *Encrypted consent*
 
+...fill-in description and demo/screenshot...
+
+In the future, we may develop research safeguards that would render it unnecessary to require students to provide affirmative consent for automatically de-identified data to be included in a ManyClasses study.  In such a situation, this encrypted consent tool might still be used to provide a secure *opt-out* mechanism, where students are given the opportunity to exclude themselves from the research study without the instructor's awareness.
