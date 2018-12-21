@@ -1,5 +1,5 @@
 ---
-title: 'Encrypted Consent: A tool for ManyClasses research.'
+title: 'Encrypted Consent: A tool for ManyClasses research'
 author: ['Josh de Leeuw', 'Ben Motz']
 date: '2018-12-20'
 slug: encrypted-consent
