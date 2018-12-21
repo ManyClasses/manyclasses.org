@@ -18,6 +18,8 @@ We call our solution: *Encrypted consent*.
 
 The idea is straightforward. Students respond to the consent question with a coded response. In our initial setup, the code is a 6-digit number. Students click a radio button to indicate if they do or do not consent, and the appropriate response code is then displayed. Students copy and paste the number into a textbox, and the number is submitted with their assignment. Each 6-digit number is linked to a response option in a database that the ManyClasses research team controls. Teachers can see the 6-digit number, but without access to the database have no way to identify whether a student has consented to participate. Importantly, each 6-digit number is presented only once as a possible response, so that no one can refresh the consent form repeatedly to make a list of the digits that correspond to a particular consent option.
 
+Here's a recording of what the tool looks like in a Canvas quiz:
+
 ![Animated Demo of Consent Form in Canvas Website](/img/encrypted-consent.gif)
 
 If you are interested in the technology side of the solution, we've made the [source code available on GitHub](https://github.com/ManyClasses/encrypted-consent). It uses PHP and an sqlite database. We've licensed the software under the MIT license so you are free to use it for whatever purpose you would like.
