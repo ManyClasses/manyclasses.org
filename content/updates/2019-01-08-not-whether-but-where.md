@@ -1,11 +1,11 @@
 ---
 title: 'Not whether, but where: Scaling-up how we think about effects and relationships in natural educational contexts'
 author: ['Ben Motz', 'Paulo Carvalho']
-date: '2019-03-04'
+date: '2019-01-08'
 slug: not-whether-but-where
 categories: []
 tags: []
-summary: 'Preprint of paper to be presented at SASLAS19, and in the companion proceedings of the LAK19.'
+summary: 'Preprint of paper to be presented at SASLAS19, and appearing in the companion proceedings of the 9th International Learning Analytics and Knowledge Conference (LAK19).'
 ---
 
 _Note: This post is a preprint of a paper that will be presented at [SASLAS19](http://augment.cs.kuleuven.be/saslas19), a preconference workshop for LAK19. The DOI for this paper is [10.13140/RG.2.2.30825.34407](https://doi.org/10.13140/RG.2.2.30825.34407)_
