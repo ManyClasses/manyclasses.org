@@ -10,12 +10,12 @@ summary: 'Preprint of paper to be presented at SASLAS19, and in the companion pr
 
 _Note: This post is a preprint of a paper that will be presented at [SASLAS19](http://augment.cs.kuleuven.be/saslas19), a preconference workshop for LAK19. The DOI for this paper is [10.13140/RG.2.2.30825.34407](https://doi.org/10.13140/RG.2.2.30825.34407)_
 
-> And so these men of Indostan 
-> Disputed loud and long,
-> Each in his own opinion 
-> Exceeding stiff and strong,
-> Though each was partly in the right, 
-> And all were in the wrong!
+> And so these men of Indostan <br/>
+> Disputed loud and long, <br/>
+> Each in his own opinion <br/>
+> Exceeding stiff and strong, <br/>
+> Though each was partly in the right, <br/>
+> And all were in the wrong! <br/>
 > - From The Blind Men and the Elephant (Saxe, 1873; p. 260)
 
 Under just the right conditions in natural educational settings, it is possible that any variable could be associated with significant changes, in either direction, for students’ learning outcomes.  For example, research into the duration of inactivity in a course site (Conjin et al., 2017), the access of assignments after the deadline (Motz et al., 2019), the order of exemplars during study (Carvalho & Goldstone, 2017), and the immersiveness of instructional examples (Day, Motz, & Goldstone, 2015), have all found opposing benefits in different contexts.  Whether a researcher observes positive evidence of such an effect, fails to observe a significant effect, or observes the opposite effect, may be principally determined by the scope of the researcher’s analysis, and not by whether the effect “exists.”  Like the ancient parable of blind men developing opposing theories of a single elephant (e.g., Saxe, 1873), analytical research on student learning risks a similarly-absurd dispute about the observation of effects (or lacks thereof) in isolated studies, and what these opposing observations might mean.
@@ -72,12 +72,12 @@ This ManyClasses model shares common ground with a nascent analytical strategy c
 
 ### Conclusion
 
-> So, oft in theologic wars 
-> The disputants, I ween, 
-> Rail on in utter ignorance 
-> Of what each other mean; 
-> And prate about an Elephant 
-> Not one of them has seen!
+> So, oft in theologic wars  <br/>
+> The disputants, I ween,  <br/>
+> Rail on in utter ignorance  <br/>
+> Of what each other mean;  <br/>
+> And prate about an Elephant  <br/>
+> Not one of them has seen! <br/>
 > - Final stanza from The Blind Men and the Elephant (Saxe, 1873)
 
 Instructional technologists are oft to advertise new teaching and learning tools with the confident certification, “it works!”  Data scientists implementing a new technique for predicting academic risk will claim, “our model works!”  Psychologists examining students’ studying behaviors in a real class will conclude, “the strategy works!”  In response, some skeptical and empirically-minded members of the education research community may scoff, “How do you know?” or “What is your evidence?”  But all of these stances seem like non sequiturs, for any such instrument, activity, modeling approach, or strategy might “work” or might fail to “work” in different natural learning contexts.  In scaling-up our perspective of these effects, perhaps learning analytics can avoid the dilemma of the blind men and the elephant, by accepting that different observations will necessarily yield different effects and relationships, and that these context-dependencies are theoretically-attractive objects of inquiry.  In this paper, we hope to have motivated the view that _where_ an effect exists in a real classroom, and to what degree, are much more meaningful concerns than _whether_ that effect exists. 
