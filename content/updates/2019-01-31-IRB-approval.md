@@ -1,7 +1,7 @@
 ---
 title: 'IRB Approval!'
 author: ['Ben Motz']
-date: '2019-01-08'
+date: '2019-01-31'
 slug: irb-approval
 categories: []
 tags: []
