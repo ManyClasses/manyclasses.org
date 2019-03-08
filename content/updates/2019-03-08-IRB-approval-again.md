@@ -5,7 +5,7 @@ date: '2019-03-08'
 slug: irb-approval-again
 categories: []
 tags: []
-summary: 'This update discusses some of the challenges of distributing an experiment in classrooms across institutional boundaries, and how we've designed the ManyClasses 1 study to address these challenges.'
+summary: 'This update discusses some of the challenges of distributing an experiment in classrooms across institutional boundaries, and how we have designed the ManyClasses 1 study to address these challenges.'
 ---
 
 36 days ago, we enthusiastically announced that the basic research protocol for the ManyClasses 1 experiment had been approved at IU.  Since then, we've been navigating a difficult path toward adding additional institutions as data collection sites in this protocol.  A primary goal is that ManyClasses would be distributed across diverse educational contexts, and that means running the experiment in multiple institutions.  This update discusses some of the challenges of distributing an experiment in classrooms across institutional boundaries, and how we've designed the ManyClasses 1 study to address these challenges.
