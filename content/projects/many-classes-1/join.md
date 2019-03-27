@@ -14,6 +14,7 @@ title: 'ManyClasses 1: Call for Applications'
  
 <center><a href="https://iu.co1.qualtrics.com/jfe/form/SV_3UdPnKjYDXKddE9"><span style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #ffffff; background-color: #ff722b;font-size: 19px;">Apply for your course to join ManyClasses.</span></a></center>
  
+ <p></p> 
  
 ## <a name="what-is-manyclasses"></a> What is ManyClasses?
 
@@ -60,6 +61,7 @@ The primary responsibility of the selected instructor is to facilitate the recru
 ## <a name="what-are-the-benefits"></a> What are the potential benefits for selected instructors?
 
 There are at least three potential benefits for college instructors who apply and are selected to be involved in the first ManyClasses research project:
+
 * Participation in an ambitious research project that seeks to bring researchers and educators together to better understand the generalizability of educational practices across a variety of authentic college classes
 * Access to direct empirical findings on the effects of immediate versus delayed feedback on course assignments in the instructor’s class
 * Authorship on subsequent publication of the findings of ManyClasses 1, pending article acceptance
@@ -97,7 +99,7 @@ This research study is being managed by research personnel from Indiana Universi
 
 If you have any questions or would like further information, please email the research team at [contact@manyclasses.org](mailto:contact@manyclasses.org). You can also learn more at [https://manyclasses.org](https://manyclasses.org)
  
- 
+<p></p> 
  
 ## <a name="apply"></a> 
 <center><a href="https://iu.co1.qualtrics.com/jfe/form/SV_3UdPnKjYDXKddE9"><span style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #ffffff; background-color: #ff722b;font-size: 19px;">Apply for your course to join ManyClasses.</span></a></center>
