@@ -93,4 +93,4 @@ This research study is being managed by research personnel from Indiana Universi
 If you have any questions or would like further information, please email the research team at [contact@manyclasses.org](mailto:contact@manyclasses.org). You can also learn more at [https://manyclasses.org](https://manyclasses.org)
 
 ## <a name="apply"></a> 
-<center><form action="https://iu.co1.qualtrics.com/jfe/form/SV_3UdPnKjYDXKddE9"><button style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #ffffff; background-color: #ff722b;" type="button"><span>Apply for your course to join ManyClasses.</span></button></form></center>
+<center><a href="https://iu.co1.qualtrics.com/jfe/form/SV_3UdPnKjYDXKddE9"><button style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #ffffff; background-color: #ff722b;font-size: 19px;" type="button"><span>Apply for your course to join ManyClasses.</span></button></a></center>
