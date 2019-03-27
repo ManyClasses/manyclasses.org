@@ -12,7 +12,7 @@ title: 'ManyClasses 1: Call for Applications'
 * [Who is running this project?](#who-is-running)
 * [Who do I contact if I have questions?](#who-do-i-contact)
 
-<center><a href="https://iu.co1.qualtrics.com/jfe/form/SV_3UdPnKjYDXKddE9" style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #ffffff; background-color: #ff722b;font-size: 19px;">Apply for your course to join ManyClasses.</a></center>
+<center><a href="https://iu.co1.qualtrics.com/jfe/form/SV_3UdPnKjYDXKddE9"><span style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #ffffff; background-color: #ff722b;font-size: 19px;">Apply for your course to join ManyClasses.</span></a></center>
 
 
 ## <a name="what-is-manyclasses"></a> What is ManyClasses?
