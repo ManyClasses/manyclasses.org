@@ -25,6 +25,7 @@ The purpose of this first ManyClasses study (ManyClasses 1) is to examine how th
 Specifically, we will compare the effects of immediate feedback (i.e., feedback provided right after an assignment is submitted) versus delayed feedback (i.e., feedback provided several days after an assignment is submitted) on student learning outcomes. Additionally, given the fact that students automatically see immediate feedback but not delayed feedback, another factor we will examine is whether students are assigned to view the feedback provided.
 
 We chose to investigate the timing of feedback in ManyClasses 1 for several reasons:
+
 * The provision of feedback is highly recommended for improving student learning (e.g., Benassi, Overson, & Hakala, 2014; Pashler et al., 2007)
 * The provision of feedback is a common component of most classes and will not represent a deviation from normal practice
 * Instructors must decide when to provide feedback to their students and they need evidence-based recommendations to inform that decision
@@ -34,6 +35,7 @@ We chose to investigate the timing of feedback in ManyClasses 1 for several reas
 ## <a name="who-is-eligible"></a> Who is eligible to apply?
 
 College instructors who are teaching an undergraduate credit-bearing course in the Fall 2019 semester that:
+
 * Uses Canvas as the online learning management system
 * Includes or could be adapted to include at least two Canvas quiz assignments on different topics and that are automatically scored
 * Includes or could be adapted to include a measure of student learning that is administered after the Canvas quiz assignments and that independently assesses content from the assignments using different items
@@ -46,6 +48,7 @@ We are interested to include a wide range of different classes, topics, formats,
 ## <a name="what-is-expected-instructors"></a> What is expected of selected instructors?
 
 The primary responsibility of the selected instructor is to facilitate the recruitment of students for ManyClasses 1 by announcing the research opportunity to one course that meets the eligibility requirements. Prior to or during the Fall 2019 semester, instructors will also be asked to:
+
 *	Add an approved researcher to their Canvas course who will facilitate the implementation of the feedback conditions on selected assignments
 **	Adding a researcher to a Canvas site will require institutional approval, and we will work with selected instructors to obtain this approval.
 *	Include an approved statement on the course syllabus that informs the students that there will be minor variations in course materials
