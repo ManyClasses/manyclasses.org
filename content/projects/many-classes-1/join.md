@@ -50,7 +50,7 @@ We are interested to include a wide range of different classes, topics, formats,
 The primary responsibility of the selected instructor is to facilitate the recruitment of students for ManyClasses 1 by announcing the research opportunity to one course that meets the eligibility requirements. Prior to or during the Fall 2019 semester, instructors will also be asked to:
 
 *	Add an approved researcher to their Canvas course who will facilitate the implementation of the feedback conditions on selected assignments
-**	Adding a researcher to a Canvas site will require institutional approval, and we will work with selected instructors to obtain this approval.
+  *	Adding a researcher to a Canvas site will require institutional approval, and we will work with selected instructors to obtain this approval.
 *	Include an approved statement on the course syllabus that informs the students that there will be minor variations in course materials
 *	Provide the research team with the Canvas quiz assignments 
 *	Provide the research team with the course assessments (e.g., exams) and a mapping of which assessment items assess content from any given Canvas quiz assignment
