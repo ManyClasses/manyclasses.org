@@ -11,10 +11,10 @@ title: 'ManyClasses 1: Call for Applications'
 * [How will participating classes be selected?](#how-classes-selected)
 * [Who is running this project?](#who-is-running)
 * [Who do I contact if I have questions?](#who-do-i-contact)
-
+ 
 <center><a href="https://iu.co1.qualtrics.com/jfe/form/SV_3UdPnKjYDXKddE9"><span style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #ffffff; background-color: #ff722b;font-size: 19px;">Apply for your course to join ManyClasses.</span></a></center>
-
-
+ 
+ 
 ## <a name="what-is-manyclasses"></a> What is ManyClasses?
 
 ManyClasses is a collaborative research project investigating the generalizability of educational practices across a variety of authentic college classes. Rather than conducting a research study in just one class, ManyClasses will examine the same research question in dozens of contexts. Learn more at https://manyclasses.org. 
@@ -25,19 +25,19 @@ The purpose of this first ManyClasses study (ManyClasses 1) is to examine how th
 Specifically, we will compare the effects of immediate feedback (i.e., feedback provided right after an assignment is submitted) versus delayed feedback (i.e., feedback provided several days after an assignment is submitted) on student learning outcomes. Additionally, given the fact that students automatically see immediate feedback but not delayed feedback, another factor we will examine is whether students are assigned to view the feedback provided.
 
 We chose to investigate the timing of feedback in ManyClasses 1 for several reasons:
-*	The provision of feedback is highly recommended for improving student learning (e.g., Benassi, Overson, & Hakala, 2014; Pashler et al., 2007)
-*	The provision of feedback is a common component of most classes and will not represent a deviation from normal practice
-*	Instructors must decide when to provide feedback to their students and they need evidence-based recommendations to inform that decision
-*	There are recent claims that delayed feedback is more effective than immediate feedback (see Butler & Woodward, 2018), which contrasts with current recommendations to educators to provide feedback immediately after student work is submitted
+* The provision of feedback is highly recommended for improving student learning (e.g., Benassi, Overson, & Hakala, 2014; Pashler et al., 2007)
+* The provision of feedback is a common component of most classes and will not represent a deviation from normal practice
+* Instructors must decide when to provide feedback to their students and they need evidence-based recommendations to inform that decision
+* There are recent claims that delayed feedback is more effective than immediate feedback (see Butler & Woodward, 2018), which contrasts with current recommendations to educators to provide feedback immediately after student work is submitted
 
 
 ## <a name="who-is-eligible"></a> Who is eligible to apply?
 
 College instructors who are teaching an undergraduate credit-bearing course in the Fall 2019 semester that:
-*	Uses Canvas as the online learning management system
-*	Includes or could be adapted to include at least two Canvas quiz assignments on different topics and that are automatically scored
-*	Includes or could be adapted to include a measure of student learning that is administered after the Canvas quiz assignments and that independently assesses content from the assignments using different items
-*	Has a projected enrollment of at least 20 undergraduate students
+* Uses Canvas as the online learning management system
+* Includes or could be adapted to include at least two Canvas quiz assignments on different topics and that are automatically scored
+* Includes or could be adapted to include a measure of student learning that is administered after the Canvas quiz assignments and that independently assesses content from the assignments using different items
+* Has a projected enrollment of at least 20 undergraduate students
 
 We are interested to include a wide range of different classes, topics, formats, disciplines, and student populations. Thus, we encourage applications from many different types of instructors who teach many different types of classes. Instructors do not need prior research experience nor familiarity with educational research to apply.  If you have questions about whether a class meets these criteria, please don’t hesitate to email us at contact@manyclasses.org.
 
@@ -57,9 +57,9 @@ The primary responsibility of the selected instructor is to facilitate the recru
 ## <a name="what-are-the-benefits"></a> What are the potential benefits for selected instructors?
 
 There are at least three potential benefits for college instructors who apply and are selected to be involved in the first ManyClasses research project:
-*	Participation in an ambitious research project that seeks to bring researchers and educators together to better understand the generalizability of educational practices across a variety of authentic college classes
-*	Access to direct empirical findings on the effects of immediate versus delayed feedback on course assignments in the instructor’s class
-*	Authorship on subsequent publication of the findings of ManyClasses 1, pending article acceptance
+* Participation in an ambitious research project that seeks to bring researchers and educators together to better understand the generalizability of educational practices across a variety of authentic college classes
+* Access to direct empirical findings on the effects of immediate versus delayed feedback on course assignments in the instructor’s class
+* Authorship on subsequent publication of the findings of ManyClasses 1, pending article acceptance
 
 
 ## <a name="what-is-expected-students"></a> What is expected of students in participating classes?
@@ -93,11 +93,11 @@ This research study is being managed by research personnel from Indiana Universi
 ## <a name="who-do-i-contact"></a> Who do I contact if I have questions?
 
 If you have any questions or would like further information, please email the research team at [contact@manyclasses.org](mailto:contact@manyclasses.org). You can also learn more at [https://manyclasses.org](https://manyclasses.org)
-
-
-
+ 
+ 
+ 
 ## <a name="apply"></a> 
 <center><a href="https://iu.co1.qualtrics.com/jfe/form/SV_3UdPnKjYDXKddE9"><span style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #ffffff; background-color: #ff722b;font-size: 19px;">Apply for your course to join ManyClasses.</span></a></center>
-
-
-
+ 
+ 
+ 
