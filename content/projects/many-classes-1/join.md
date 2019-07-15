@@ -12,7 +12,7 @@ title: 'ManyClasses 1: Call for Applications'
 * [Who is running this project?](#who-is-running)
 * [Who do I contact if I have questions?](#who-do-i-contact)
  
-<center><a href="https://iu.co1.qualtrics.com/jfe/form/SV_3UdPnKjYDXKddE9"><span style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #ffffff; background-color: #ff722b;font-size: 19px;">Apply for your course to join ManyClasses.</span></a></center>
+<center><span style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #a9a9a9; background-color: 	#4c4c4c;font-size: 19px;">The call for applications for ManyClasses 1 is now closed.</span></center>
  
  <p></p> 
  
@@ -102,7 +102,7 @@ If you have any questions or would like further information, please email the re
 <p></p> 
  
 ## <a name="apply"></a> 
-<center><a href="https://iu.co1.qualtrics.com/jfe/form/SV_3UdPnKjYDXKddE9"><span style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #ffffff; background-color: #ff722b;font-size: 19px;">Apply for your course to join ManyClasses.</span></a></center>
+<center><span style="display:inline-block; text-align: center; text-decoration: none; margin: 2px 0; border: solid 1px transparent; border-radius: 4px; padding: 0.5em 1em; color: #a9a9a9; background-color: 	#4c4c4c;font-size: 19px;">The call for applications for ManyClasses 1 is now closed.</span></center>
  
  
  
