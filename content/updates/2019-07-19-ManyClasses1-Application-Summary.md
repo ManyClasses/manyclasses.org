@@ -15,7 +15,7 @@ As the Fall 2019 semester rapidly approaches, we have finally closed the ManyCla
 * Number of applications received from approved institutions: 44
 * __Current number of applicants: 42__ (excludes 1 withdrawal & 1 that did not meet inclusion criteria)
 
-The institutions that have provided the necessary written approval for the ManyClasses study are: Indiana University, Penn State University, University of Nebraska Lincoln, University of Michigan, and University of Minnesota.  We cannot fully express our appreciation to the many administrators at these institutions who helped shepherd ManyClasses through their approval process, and also to those at a handful of other institutions where approval was not possible at this time, but who made valiant efforts nevertheless.
+The institutions that have provided the necessary written approval for the ManyClasses study are: Indiana University, Penn State University, University of Nebraska Lincoln, University of Michigan, and University of Minnesota.  We cannot fully express our appreciation to the many administrators at these institutions who helped shepherd ManyClasses through their approval process, and also to those at a handful of other institutions where approval was not possible at this time, but who made valiant efforts nonetheless.
 
 Of the 42 qualifying applicants, here is a rough profile of their classes:
 <ul>
