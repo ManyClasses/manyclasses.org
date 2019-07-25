@@ -8,7 +8,7 @@ tags: []
 summary: 'The registered report for the first ManyClasses study has been in-principle accepted!'
 ---
 
-The Stage 1 (data-blind) manuscript for the first ManyClasses study has been granted an "in-principle acceptance" from the journal [Advances in Methods and Practices in Psychological Sciences](https://www.psychologicalscience.org/publications/ampps)!
+The Stage 1 (data-blind) manuscript for the first ManyClasses study has been granted an "in-principle acceptance" from the journal [Advances in Methods and Practices in Psychological Science](https://www.psychologicalscience.org/publications/ampps)!
 
 The frozen, time-stamped preregistered project is here: https://osf.io/sdqwm, which contains:
 * The Stage 1 approved manuscript: https://osf.io/h7d9t/
