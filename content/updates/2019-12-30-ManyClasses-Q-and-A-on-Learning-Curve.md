@@ -1,7 +1,7 @@
 ---
 title: 'ManyClasses Q-and-A on the Learning Curve'
 author: ['Ben Motz']
-date: '2019-07-25'
+date: '2019-12-30'
 slug: ManyClasses-Q-and-A-on-Learning-Curve
 categories: []
 tags: []
