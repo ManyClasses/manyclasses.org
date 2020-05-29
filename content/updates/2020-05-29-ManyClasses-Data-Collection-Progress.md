@@ -17,7 +17,8 @@ This also would not have been possible without the contributions from an amazing
 We have now publicly posted de-identified data about participating classes and their institutions to OSF:
 * manyclasses_class_moderators.csv - https://osf.io/tjkyr/
 * manyclasses_institution_moderators.csv - https://osf.io/e8d5f/
-Which contain all preregistered moderator values at the class- and institution-level.  De-identified student moderators and final outcome scores will also be posted shortly, as we are continuing to audit and validate these data.
+
+...Which contain all preregistered moderator values at the class- and institution-level.  De-identified student moderators and final outcome scores will also be posted shortly, as we are continuing to audit and validate these data.
 
 Our preprocessing pipeline is described here: https://osf.io/p2csf/
 
