@@ -15,7 +15,9 @@ After lengthy delays after lengthy delays, with causes ranging from passwords to
 This also would not have been possible without the contributions from an amazing set of collaborating instructors.  All 38 classes that began the study completed the study, and all instructors have provided thorough reports of student performance on outcome assessments ("posttest" scores after students receive different feedback treatments).  We cannot express our appreciation for the efforts of these instructors, and we are so looking forward to joining them in authorship of our final report.
 
 We have now publicly posted de-identified data about participating classes and their institutions to OSF:
+
 * manyclasses_class_moderators.csv - https://osf.io/tjkyr/
+
 * manyclasses_institution_moderators.csv - https://osf.io/e8d5f/
 
 ...Which contain all preregistered moderator values at the class- and institution-level.  De-identified student moderators and final outcome scores will also be posted shortly, as we are continuing to audit and validate these data.
