@@ -8,6 +8,8 @@ For decades, researchers from psychology, cognitive science, and education have 
 
 Toward that goal, ManyClasses is a research model for evaluating the efficacy of educational practices across a variety of authentic learning contexts. As with similar efforts in psychology ([Many Labs](https://osf.io/89vqh/), [Many Babies](https://manybabies.github.io/), [ManyPrimates](https://manyprimates.github.io/)), the core feature of ManyClasses is that researchers measure an experimental effect across many independent samples – in this case, across many classes. Rather than conducting an embedded learning study in just one educational context, a ManyClasses study will examine the same research question in dozens of contexts, spanning a range of courses, institutions, formats, and student populations. By drawing the same experimental contrast across a diversity of educational implementations, and then analyzing pooled results, we can assess the degree to which an experimental effect generalizes across multiple classes, and systematically investigate how a manipulation might be more or less effective for different students in different contexts.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mmrjVNXlrt4" target="_blank"><img src="http://img.youtube.com/vi/mmrjVNXlrt4/0.jpg" alt="Large Scale Research Model for Studying Student Learning" width="320" height="220" border="10" /></a>
+
 ## Who is running this project?
 
 The ManyClasses team is: 
