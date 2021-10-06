@@ -8,8 +8,6 @@ For decades, researchers from psychology, cognitive science, and education have 
 
 Toward that goal, ManyClasses is a research model for evaluating the efficacy of educational practices across a variety of authentic learning contexts. As with similar efforts in psychology ([Many Labs](https://osf.io/89vqh/), [Many Babies](https://manybabies.github.io/), [ManyPrimates](https://manyprimates.github.io/)), the core feature of ManyClasses is that researchers measure an experimental effect across many independent samples – in this case, across many classes. Rather than conducting an embedded learning study in just one educational context, a ManyClasses study will examine the same research question in dozens of contexts, spanning a range of courses, institutions, formats, and student populations. By drawing the same experimental contrast across a diversity of educational implementations, and then analyzing pooled results, we can assess the degree to which an experimental effect generalizes across multiple classes, and systematically investigate how a manipulation might be more or less effective for different students in different contexts.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mmrjVNXlrt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Who is running this project?
 
 The ManyClasses team is: 
@@ -19,6 +17,10 @@ The ManyClasses team is:
 * [Emily Fyfe](https://psych.indiana.edu/directory/faculty/fyfe-emily.html) (Indiana University)
 * [Rob Goldstone](https://psych.indiana.edu/directory/faculty/goldstone-robert.html) (Indiana University)
 * [Ben Motz](https://motzweb.sitehost.iu.edu/) (Indiana University)
+
+[![YouTube ManyClasses Explainer](https://github.com/ManyClasses/manyclasses.org/raw/master/static/img/youtube_thumbnail.png?raw=true)](https://www.youtube.com/watch?v=mmrjVNXlrt4)
+
+[Click to see Ben Motz and Emily Fyfe describe the ManyClasses project](https://www.youtube.com/watch?v=mmrjVNXlrt4)
 
 ## How does ManyClasses work?
 
