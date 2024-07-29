@@ -5,7 +5,7 @@ summary: 'Prequestions are ungraded questions that appear prior to a learning ac
 
 ## ManyClasses 2 is now released as a preprint
 
-Motz, B., Chinni, A., de Leeuw, J., Jankowski, H., Aggarwal, A., Amato, M., Berlin, K., Britten, K., Brown, A., Cerchiaro, M., Evans, N., Findley, A., Gorman, R., Gregg, K., Hansen, K., Hollender, H., Hullinger, R., Larkin, P., Lion, M., Long, R., Mannarino, A., Mocko, M., Moore, K., Packowski, J., Palmer, C., Ritchie, K., Scott, J., Stanton, ., Talcott, L., Wagner, L., Waite, M., Yeager, R., and Fyfe, E. (2024). ManyClasses 2: The Effects of Prequestions on Media Interactions and Learning, *PsyArXiv*. TBD
+Motz, B., Chinni, A., de Leeuw, J., Jankowski, H., Aggarwal, A., Amato, M., Berlin, K., Britten, K., Brown, A., Cerchiaro, M., Evans, N., Findley, A., Gorman, R., Gregg, K., Hansen, K., Hollender, H., Hullinger, R., Larkin, P., Lion, M., Long, R., Mannarino, A., Mocko, M., Moore, K., Packowski, J., Palmer, C., Ritchie, K., Scott, J., Stanton, ., Talcott, L., Wagner, L., Waite, M., Yeager, R., and Fyfe, E. (2024). ManyClasses 2: The Effects of Prequestions on Media Interactions and Learning, *PsyArXiv*. [https://doi.org/10.31234/osf.io/3xbma](https://doi.org/10.31234/osf.io/3xbma)
 
 ## ManyClasses 2 Abstract
 
@@ -29,13 +29,13 @@ Data Collection Sites | Indiana University, University of Nebraska Lincoln, Univ
 
 ## ManyClasses1 Links
 
-- Preprint: TBD
+- Preprint: [https://doi.org/10.31234/osf.io/3xbma](https://doi.org/10.31234/osf.io/3xbma)
 - OSF Site: [https://osf.io/q84t7/](https://osf.io/t5ma3/)
 - Preregistrations:
--- Wave 1: [https://osf.io/mutxd]
--- Wave 2: [https://osf.io/q53rv]
--- Wave 3: [https://osf.io/q2hjf]
--- Wave 4: [https://osf.io/m5d2j]
+  - Wave 1: [https://osf.io/mutxd](https://osf.io/mutxd)
+  - Wave 2: [https://osf.io/q53rv](https://osf.io/q53rv)
+  - Wave 3: [https://osf.io/q2hjf](https://osf.io/q2hjf)
+  - Wave 4: [https://osf.io/m5d2j](https://osf.io/m5d2j)
 
 ## ManyClasses 2 Acknowledgements
 
